@@ -1,0 +1,9 @@
+POST http://localhost:3000/erabiltzaileak
+Content-Type: application/json
+
+{
+  "id": "1",
+  "izena": "Eneko",
+  "abizena": "Ruiz",
+  "email": "eneko@example.com"
+}
